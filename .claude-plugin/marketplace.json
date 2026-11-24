@@ -1,0 +1,16 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "unattended",
+  "owner": {
+    "name": "Madhav Sethi",
+    "url": "https://github.com/sethimadhav10"
+  },
+  "plugins": [
+    {
+      "name": "unattended",
+      "source": "./",
+      "description": "Skills for unattended work: /autonomous, /ship-safe, /deploy-audit, /dreamer, /summary."
+    }
+  ],
+  "description": "unattended: Claude Code skills for work that has to be right when nobody is watching"
+}

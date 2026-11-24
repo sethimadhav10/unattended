@@ -1,0 +1,27 @@
+{
+  "name": "unattended",
+  "version": "1.0.0",
+  "description": "Five Claude Code skills for work that has to be right when nobody is watching: a six-agent autonomous loop with sealed acceptance criteria, the ship-safe rules against checks that pass while looking at the wrong thing, a pre-launch deploy audit, a hypothesis-free data prospector, and a one-decision status brief.",
+  "author": {
+    "name": "Madhav Sethi",
+    "url": "https://github.com/sethimadhav10"
+  },
+  "homepage": "https://github.com/sethimadhav10/unattended",
+  "repository": "https://github.com/sethimadhav10/unattended",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "agents",
+    "multi-agent",
+    "autonomous-agents",
+    "verification",
+    "testing",
+    "deployment",
+    "production-readiness",
+    "data-exploration",
+    "status-report",
+    "ai-safety"
+  ],
+  "icon": "assets/icon.png"
+}
